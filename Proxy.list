@@ -69,3 +69,6 @@ IP-CIDR,142.250.0.0/16,no-resolve
 
 #学习基地
 DOMAIN-SUFFIX,cableav.tv
+
+#UNRAID
+DOMAIN-SUFFIX,unraid.net
