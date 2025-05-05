@@ -72,3 +72,6 @@ DOMAIN-SUFFIX,cableav.tv
 
 #UNRAID
 DOMAIN-SUFFIX,unraid.net
+
+#POE2
+DOMAIN-SUFFIX,pathofexile.com
